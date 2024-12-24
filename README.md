@@ -58,4 +58,4 @@ Test the service worker: Ensure caching and offline functionality.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT LICENSE](LICENSE).
